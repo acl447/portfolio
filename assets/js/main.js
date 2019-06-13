@@ -445,7 +445,7 @@
 
   $(function(){
       $("#quote").typed({
-        strings: ["Full-Stack Developer."],
+        strings: ["Front-End Developer, Back-End Developer, Full-Stack Developer."],
         typeSpeed: 100
       });
   });
